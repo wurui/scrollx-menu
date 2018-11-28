@@ -17,26 +17,76 @@
     <data>
         <ui-entry>
             <i>
-                <title>问题反馈</title>
+                <title>要闻</title>
                 <href></href>
                 <subtitle></subtitle>
                 <icon></icon>
                 <bg></bg>
             </i>
             <i>
-                <title>商务合作</title>
-                <href></href>
+                <title>热点</title>
+                <href>#nodata</href>
                 <subtitle></subtitle>
                 <icon></icon>
                 <bg></bg>
             </i>
             <i>
-                <title>关于我们</title>
-                <href></href>
+                <title>国内</title>
+                <href>#1</href>
                 <subtitle></subtitle>
                 <icon></icon>
                 <bg></bg>
             </i>
+            <i>
+                <title>政治</title>
+                <href>#2</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>体育</title>
+                <href>#3</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>财经</title>
+                <href>#4</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>国际</title>
+                <href>#11</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>房地产</title>
+                <href>#21</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>互联网</title>
+                <href>#31</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>股市</title>
+                <href>#41</href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+
         </ui-entry>
     </data>
 </root>

@@ -2,9 +2,15 @@
     <xsl:template match="/root" name="wurui.scrollx-menu">
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-scrollx-menu" ox-mod="scrollx-menu">
-            <h1>
-                This is mod scrollx-menu;
-            </h1>
+        	<div class="scroller">
+	            <xsl:for-each select="data/ui-entry/i">
+                    <nobr>
+    	            	<a href="{href}">
+                            <xsl:value-of select="title"/>
+                        </a>
+                    </nobr>
+	            </xsl:for-each>
+	        </div>
         </div>
     </xsl:template>
 </xsl:stylesheet>
