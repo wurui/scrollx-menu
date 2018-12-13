@@ -6,10 +6,10 @@ define([],function(){
 	    		//console.log(this.href);
 	    		if(this.href==location.href){
 	    			//$(this).addClass('selected')	
-	    			this.className='selected'
+	    			this.parentNode.className='skin-color'
 	    		}else{
 	    			//$(this).removeClass('selected')
-	    			this.className=''
+	    			this.parentNode.className=''
 	    		}
 	    	});
 
